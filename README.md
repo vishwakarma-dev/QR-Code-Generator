@@ -6,6 +6,8 @@ This app allows you to generate QR codes instantly from text or URLs, and **down
 <img width="827" height="798" alt="QR-Code-Generator" src="https://github.com/user-attachments/assets/0bf9bae1-79c7-40f1-bf9d-f58fe7394c09" />
 
 
+[Live Demo](https://vs-qr-code-generator.vercel.app/)
+
 ---
 
 ## ✨ Features
@@ -17,7 +19,7 @@ This app allows you to generate QR codes instantly from text or URLs, and **down
 - 🧠 Smart character counter (500 character limit)
 - 🌀 Loading skeleton animation while generating
 
----
+--
 
 ## 🚀 Getting Started
 
