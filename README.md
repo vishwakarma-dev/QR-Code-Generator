@@ -3,7 +3,8 @@
 A simple, clean, and fast QR Code generator built using **Next.js**, **React**, and **Material UI**.  
 This app allows you to generate QR codes instantly from text or URLs, and **download** or **copy** them as PNG images.
 
-![QR Code Generator Screenshot](https://github.com/user-attachments/assets/6dbf322a-89db-405e-8073-9208834d8877)
+<img width="827" height="798" alt="QR-Code-Generator" src="https://github.com/user-attachments/assets/0bf9bae1-79c7-40f1-bf9d-f58fe7394c09" />
+
 
 ---
 
